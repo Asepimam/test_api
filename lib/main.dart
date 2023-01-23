@@ -6,7 +6,7 @@ import 'package:get/get.dart';
 void main() async {
   await initialize();
 
-  Widget mainView = Container();
+  
 
   runApp(
     GetMaterialApp(

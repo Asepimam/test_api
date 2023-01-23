@@ -1,16 +1,13 @@
-# blank_fire_setstate
+# Project Get api
 
-A new Flutter project.
+![Screenshot_2023_0123_193635](https://user-images.githubusercontent.com/93848587/214045450-bb780a4e-c1d6-499d-816d-b784c3d869e3.jpg)
 
-## Getting Started
+# first Screen
+menampilkan data dari api ke ui
 
-This project is a starting point for a Flutter application.
+![rsz_screenshot_2023_0123_193716](https://user-images.githubusercontent.com/93848587/214042086-e5e9f6f9-799c-48cb-8dc3-6471c75ee0a1.jpg)
+# detail Screen
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
