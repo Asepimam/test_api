@@ -1,0 +1,6 @@
+{
+    "modules": [
+        "first-screen",
+        "detail-screen"
+    ]
+}
